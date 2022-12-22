@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373125465160",
+    "project_id": "earthviewmanagement-1a876",
+    "storage_bucket": "earthviewmanagement-1a876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373125465160:android:bbcb24f0cfcc6db8d9047d",
+        "android_client_info": {
+          "package_name": "com.example.earthviewmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373125465160-dpru4jdbrjg8bigfq4kgj8ekfbdt7nbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwNSpIYp36pOvzg7L_2XkjGU4bQnRXGVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373125465160-dpru4jdbrjg8bigfq4kgj8ekfbdt7nbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
