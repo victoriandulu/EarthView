@@ -4,4 +4,10 @@
     <string name="close_nav">close Navigation Drawer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Eview">\@Earth View</string>
+    <string name="Eview_details">EarthView Management Limited is a leader in the management of Natural resources for the future through technology in Africa.We are an impact orientend bussiness focused on the measurement and conversation of natural resources through technology </string>
+    <string name="Eview_details1">The "EarthView Management Application" has been designed and developed for the EarthView company to help in management and billing of services .</string>
+    <string name="Eview_details2">At EarthView, we are helping utilities make the most of their water by providing solutions that help achieve water efficiency, conservation and management.</string>
+    <string name="pass">password</string>
+    <string name="login">Login</string>
 </resources>
